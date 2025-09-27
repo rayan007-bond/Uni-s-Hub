@@ -62,8 +62,14 @@ Here are some previews of **Unis Hub** in action:
 <img src="ss/1.jpg" width="200"/> 
 <img src="ss/2.jpg" width="200"/>
 <img src="ss/3.jpg" width="200"/>
+<img src="ss/4.jpg" width="200"/>
+<img src="ss/5.jpg" width="200"/>
+<img src="ss/6.jpg" width="200"/>
+<img src="ss/7.jpg" width="200"/>
+<img src="ss/8.jpg" width="200"/>
+<img src="ss/9.jpg" width="200"/>
 
-
+---
 ## 🔮 Future Improvements
 - Dark mode theme  
 - Cloud sync across devices  
