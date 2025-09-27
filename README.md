@@ -35,7 +35,6 @@ It helps university students manage their academic life by providing GPA/CGPA ca
 - **Room Database** (local data storage)
 - **Firebase Auth & Firestore** (user accounts & events)
 - **Firebase Cloud Messaging** (notifications)
-
 ---
 
 ## 📱 Screens (Planned)
@@ -50,4 +49,32 @@ It helps university students manage their academic life by providing GPA/CGPA ca
 
 ---
 
-## 📂 Project Structure (simplified)
+---
+
+## 🎨 Design
+- Gradient background (`Dark Blue → Mid Blue → Light Blue → White`)  
+- Rounded cards for sections  
+- Bottom Navigation Bar for quick access  
+
+---
+
+## 🔮 Future Improvements
+- Dark mode theme  
+- Cloud sync across devices  
+- AI-powered study assistant  
+- Offline timetable reminders  
+
+---
+
+## 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.  
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – feel free to use and modify it.  
+---
+## 📬 Contact
+If you face any **errors**, have suggestions, or use this project in your own work – feel free to **contact me**.
+- muhammdrayan182@gmail.com
+
