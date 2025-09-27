@@ -49,14 +49,20 @@ It helps university students manage their academic life by providing GPA/CGPA ca
 
 ---
 
----
-
 ## 🎨 Design
 - Gradient background (`Dark Blue → Mid Blue → Light Blue → White`)  
 - Rounded cards for sections  
 - Bottom Navigation Bar for quick access  
 
 ---
+
+## 📷 Screenshots
+
+Here are some previews of **Unis Hub** in action:
+<img src="screenshots/home.png" width="250"/> 
+<img src="screenshots/gpa.png" width="250"/>
+<img src="screenshots/timetable.png" width="250"/>
+
 
 ## 🔮 Future Improvements
 - Dark mode theme  
@@ -73,7 +79,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📜 License
 This project is licensed under the **MIT License** – feel free to use and modify it.  
----
+
 ## 📬 Contact
 If you face any **errors**, have suggestions, or use this project in your own work – feel free to **contact me**.
 - muhammdrayan182@gmail.com
