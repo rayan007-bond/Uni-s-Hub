@@ -59,9 +59,9 @@ It helps university students manage their academic life by providing GPA/CGPA ca
 ## 📷 Screenshots
 
 Here are some previews of **Unis Hub** in action:
-<img src="ss/1.jpg" width="250"/> 
-<img src="ss/2.jpg" width="250"/>
-<img src="ss/3.jpg" width="250"/>
+<img src="ss/1.jpg" width="200"/> 
+<img src="ss/2.jpg" width="200"/>
+<img src="ss/3.jpg" width="200"/>
 
 
 ## 🔮 Future Improvements
